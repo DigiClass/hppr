@@ -1,0 +1,56 @@
+[
+    {
+        "german": "Axylos",
+        "relationships": [
+            [
+                "affiliation",
+                "Trojans"
+            ],
+            [
+                "son",
+                "person2"
+            ],
+            [
+                "killed-by",
+                "person3"
+            ],
+            [
+                "comes-from",
+                "place1"
+            ],
+            [
+                "mentioned-at",
+                "6.12"
+            ]
+        ],
+        "agreek": "Ἄξυλος",
+        "english": "Axylus"
+    },
+    {
+        "german": "Axylos",
+        "relationships": [
+            [
+                "affiliation",
+                "Trojans"
+            ],
+            [
+                "son",
+                "person2"
+            ],
+            [
+                "killed-by",
+                "person3"
+            ],
+            [
+                "comes-from",
+                "place1"
+            ],
+            [
+                "mentioned-at",
+                "6.12"
+            ]
+        ],
+        "agreek": "Ἄξυλος",
+        "english": "Axylus"
+    }
+]
