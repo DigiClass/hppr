@@ -1,5 +1,6 @@
 [
     {
+        "key" : "person1",
         "german": "Axylos",
         "relationships": [
             [
@@ -27,30 +28,44 @@
         "english": "Axylus"
     },
     {
-        "german": "Axylos",
+        "key":"person3",
+        "german": "Diomedes",
         "relationships": [
             [
                 "affiliation",
-                "Trojans"
+                "Achaean"
             ],
             [
-                "son",
-                "person2"
+                "killed",
+                "person1"
             ],
             [
-                "killed-by",
-                "person3"
+                "killed",
+                "person4"
+            ],
+            [
+                "killed",
+                "person5"
             ],
             [
                 "comes-from",
-                "place1"
+                "place2"
+            ],
+            [
+                "ruler-of",
+                "place3"
             ],
             [
                 "mentioned-at",
                 "6.12"
             ]
+            ,
+            [
+                "mentioned-at",
+                "23.472"
+            ]
         ],
-        "agreek": "Ἄξυλος",
-        "english": "Axylus"
+        "agreek": "Διομήδης",
+        "english": "Diomedes"
     }
 ]
